@@ -16,7 +16,7 @@ source venv/bin/activate
 ````
 
 
-## Sili
+## S
 ````
 python3 src/federated_main_Sili.py --model=cnn --dataset=cifar --epochs=50 --num_users=10 --frac=1
 ````
